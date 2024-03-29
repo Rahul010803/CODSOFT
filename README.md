@@ -1,6 +1,6 @@
 # CODSOFT
 
-Python Programming Virtual Internship Tasks-\n
+Python Programming Virtual Internship Tasks-
 
 Task 1- Todo List Application
 Task 2- Simple Calculator
